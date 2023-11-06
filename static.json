@@ -1,8 +1,0 @@
-{ 
-    "root": "public",
-    "headers": {
-        "/**": {
-            "Access-Control-Allow-Origin": "*"
-        }
-    }
-}
